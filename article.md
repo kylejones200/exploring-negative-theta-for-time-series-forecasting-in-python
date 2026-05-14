@@ -3,11 +3,11 @@
 A practical guide to the Theta forecasting method in Python
 ### Exploring Negative Theta for Time Series Forecasting in Python
 #### A practical guide to the Theta forecasting method in Python
-**Negative Theta** is a time series forecasting technique that combines decomposition, linear extrapolation, and an ensemble. It is particularly useful for time series with strong trends and seasonality.
+Negative Theta is a time series forecasting technique that combines decomposition, linear extrapolation, and an ensemble. It is particularly useful for time series with strong trends and seasonality.
 
 The Theta method was introduced by Assimakopoulos and Nikolopoulos (2000). It is based on decomposing a time series into two or more components, then forecasting and recombining them. The core idea is to modify the curvature of the time series by applying a "theta coefficient" and use the linear and adjusted components for forecasting.
 
-**Key Steps in the Theta Method**:
+Key Steps in the Theta Method:
 
 1.  [Decompose the time series into a trend and a seasonality component.]
 2.  [Apply a theta transformation to adjust the curvature of the trend.]

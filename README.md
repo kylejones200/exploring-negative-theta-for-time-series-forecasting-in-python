@@ -1,7 +1,7 @@
 # Exploring Negative Theta for Time Series Forecasting in Python
 
-**Published:** 2025-01-22
-**Medium:** [https://medium.com/@kyle-t-jones/exploring-negative-theta-for-time-series-forecasting-in-python-0af751445fe2](https://medium.com/@kyle-t-jones/exploring-negative-theta-for-time-series-forecasting-in-python-0af751445fe2)
+Published: 2025-01-22
+Medium: [https://medium.com/@kyle-t-jones/exploring-negative-theta-for-time-series-forecasting-in-python-0af751445fe2](https://medium.com/@kyle-t-jones/exploring-negative-theta-for-time-series-forecasting-in-python-0af751445fe2)
 
 ## About
 

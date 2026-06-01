@@ -11,14 +11,7 @@ The Theta method was introduced by Assimakopoulos and Nikolopoulos (2000). It is
 
 1. [Decompose the time series into a trend and a seasonality component.] 2. [Apply a theta transformation to adjust the curvature of the trend.] 3. [Forecast each component separately.] 4. [Combine the forecasts to produce the final result.]
 
-## About
 
-Place the code for this article in this repository.
-The original article export is saved as `article.md`.
-
-## Files
-
-Add your `.ipynb`, `.py`, `.yaml`, `.js`, `.ts`, or other project files here.
 
 ## Disclaimer
 
